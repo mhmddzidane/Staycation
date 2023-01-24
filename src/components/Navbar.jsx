@@ -4,9 +4,9 @@ const Navbar = () => {
   return (
     <div>
       <div className="flex py-5  border-b-2 border-[#E5E5E5] px-[150px]">
-        <h1 className="text-2xl">
+        <a href="/" className="text-2xl">
           <span className="text-secondPrimary font-medium">Stay</span>cation.
-        </h1>
+        </a>
         <div className="ml-auto ">
           <a
             href="/"
