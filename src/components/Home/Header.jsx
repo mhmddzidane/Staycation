@@ -54,7 +54,7 @@ const Header = () => {
       <img
         src={hero}
         alt="hero image"
-        className="relative w-[500px] h-[400px] ml-auto"
+        className="relative max-w-lg h-[400px] ml-auto"
       />
     </div>
   );
