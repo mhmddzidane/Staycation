@@ -13,6 +13,7 @@ import star from "./Star 1.svg";
 import detail1 from "./detail1.svg";
 import detail2 from "./detail2.svg";
 import detail3 from "./detail3.svg";
+import complete from "./complete.svg";
 
 export {
   hero,
@@ -30,4 +31,5 @@ export {
   detail2,
   detail3,
   star,
+  complete,
 };

@@ -9,6 +9,9 @@ import livingIcon from "./ic_livingroom.svg";
 import tvIcon from "./ic_tv.svg";
 import wifiIcon from "./ic_wifi 1.svg";
 import bathIcon from "./ic_bedroom-1.svg";
+import mandiri from "./mandiri.svg";
+import bca from "./bca.svg";
+import check from "./check.svg";
 
 export {
   cityIcon,
@@ -22,4 +25,7 @@ export {
   tvIcon,
   wifiIcon,
   bathIcon,
+  mandiri,
+  bca,
+  check,
 };
